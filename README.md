@@ -17,3 +17,6 @@ Assumes:
 * projectile for project management
 * *no* midje-mode - it seems to fight with projectile, and I don't find it adds much to my workflow
 
+[pdf version (via google docs for online browsing)](https://docs.google.com/gview?url=https://github.com/kornysietsma/emacs-clojure-cheatsheet/blob/master/emacs_clojure_cheatsheet.pdf?raw=true&embedded=true)
+
+[raw pdf version](https://github.com/kornysietsma/emacs-clojure-cheatsheet/blob/master/emacs_clojure_cheatsheet.pdf?raw=true)
