@@ -109,30 +109,27 @@
 				bmcBlIQBK0hEZXN0cnVjdHVyaW5nOgpbYSBiICYgbSA6
 				YXMgYWxsXQp7YSA6YSBiIDpifQp7OmtleXMgW2EgYl0g
 				Om9yIHs6YSAiYSJ9fSCGhAJpSQEPkoSEhAxOU0RpY3Rp
-				b25hcnkAlIQBaQSShJaWEE5TUGFyYWdyYXBoU3R5bGWG
-				koSEhBBOU1BhcmFncmFwaFN0eWxlAJSEBENDQFMEAISE
-				hAdOU0FycmF5AJSZDJKEhIQJTlNUZXh0VGFiAJSEAkNm
-				AByGkoSfngA4hpKEn54AVIaShJ+eAHCGkoSfngCBjACG
-				koSfngCBqACGkoSfngCBxACGkoSfngCB4ACGkoSfngCB
-				/ACGkoSfngCBGAGGkoSfngCBNAGGkoSfngCBUAGGhoEA
-				CIQEWzFmXYPNzEw9hpKElpYGTlNLZXJuhpKEhIQITlNO
-				dW1iZXIAhIQHTlNWYWx1ZQCUhAEqhIQBZKMAhpKElpYG
+				b25hcnkAlIQBaQOShJaWBk5TS2VyboaShISECE5TTnVt
+				YmVyAISEB05TVmFsdWUAlIQBKoSEAWSdAIaShJaWEE5T
+				UGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0
+				eWxlAJSEBENDQFMEAISEhAdOU0FycmF5AJSZDJKEhIQJ
+				TlNUZXh0VGFiAJSEAkNmAByGkoSkogA4hpKEpKIAVIaS
+				hKSiAHCGkoSkogCBjACGkoSkogCBqACGkoSkogCBxACG
+				koSkogCB4ACGkoSkogCB/ACGkoSkogCBGAGGkoSkogCB
+				NAGGkoSkogCBUAGGhoEACIQEWzFmXYPNzEw9hpKElpYG
 				TlNGb250hpKEhIQGTlNGb250HpSZMIQFWzQ4Y10GAAAA
 				JgAAAP/+UwBvAHUAcgBjAGUAQwBvAGQAZQBQAHIAbwAt
-				AEIAbwBsAGQAAACEAWYOhAFjAKcBpwCnAIaShJaWDk5T
-				T3JpZ2luYWxGb250hpKxhpcCAZKEmJkEkpmShISEF05T
-				TXV0YWJsZVBhcmFncmFwaFN0eWxlAJubBACEnZkAhoEA
-				Ap8khpKElpYHTlNDb2xvcoaShISEB05TQ29sb3IAlKcC
-				hARmZmZmg4GAAD6D6+rqPoPIx0c/AYaSsJKEspkYhAVb
-				MjRjXQYAAAAQAAAA//5DAG8AdQByAGkAZQByAKYOpwCn
-				AacApwCGkrOSu4aXAwiShJiZA5KwkruSmZKEtpsEAISd
-				mQCGgQACnySGkrOSu4aXBAOShJiZBJKZkoS2mwQAhJ2Z
-				AIaBAAKfJIaSuJKEuqcCqoPd3Nw+g4yLCz+D9fR0PgGG
-				krCSu5KzkruGlwMElwIBlwMBlwIBlwMClwQClwMDlwQC
-				lwIBlwMBlwIBlwQFlwMBlwUBkoSYmQSSmZKEtpsEAISd
-				mQCGgQACnySGkriShLqnAqqDx8ZGPwCD4eDgPAGGkrCS
-				u5KzkruGlwMDlwUBlwMBlwQDlwMBlwUBlwQClwMElwUB
-				lwIBlwMBhg==
+				AEIAbwBsAGQAAACEAWYOhAFjAKcBpwCnAIaGlwIBkoSY
+				mQOShJaWB05TQ29sb3KGkoSEhAdOU0NvbG9yAJSnAoQE
+				ZmZmZoOBgAA+g+vq6j6DyMdHPwGGkp6ShKCfBACEopkA
+				hoEACoQEWzJmXSSDzcxMPYaSsJKEspkYhAVbMjRjXQYA
+				AAAQAAAA//5DAG8AdQByAGkAZQByAKYOpwCnAacApwCG
+				hpcDCJKEmJkCkp6St5KwkrmGlwQDkoSYmQOStJKEtqcC
+				qYPd3Nw+g4yLCz+D9fR0PgGGkp6St5KwkrmGlwMElwIB
+				lwMBlwIBlwMClwQClwMDlwQClwIBlwMBlwIBlwQFlwMB
+				lwUBkoSYmQOStJKEtqcCqYPHxkY/AIPh4OA8AYaSnpK3
+				krCSuYaXAwOXBQGXAwGXBAOXAwGXBQGXBAKXAwSXBQGX
+				AgGXAwGG
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
@@ -209,8 +206,10 @@ Destructuring:\
 
 \f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
 Windows:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
-\f1\b0 New win below: C-x 2\
+\f1\b0 \cf0 \expnd0\expndtw0\kerning0
+New win below: C-x 2\
 New win right: C-x 3\
 One win:       C-x 1\
 Kill win:      C-x 0}</string>
@@ -275,8 +274,10 @@ Kill win:      C-x 0}</string>
 
 \f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
 Cut/Paste:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
-\f1\b0 Mark:  C-space    Swap mark: C-x C-x\
+\f1\b0 \cf0 \expnd0\expndtw0\kerning0
+Mark:  C-space    Swap mark: C-x C-x\
 Cut:   C-w        Copy:      M-w\
 Paste: C-y        Pop-Paste: M-y}</string>
 			</dict>
@@ -342,8 +343,10 @@ Paste: C-y        Pop-Paste: M-y}</string>
 
 \f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
 Help:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
-\f1\b0 Search: C-h a\
+\f1\b0 \cf0 \expnd0\expndtw0\kerning0
+Search: C-h a\
 Mode: C-h m\
 Key: C-h k}</string>
 			</dict>
@@ -409,8 +412,10 @@ Key: C-h k}</string>
 
 \f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
 Basics I forget:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
-\f1\b0 Undo: C-/\
+\f1\b0 \cf0 \expnd0\expndtw0\kerning0
+Undo: C-/\
 Cancel: C-g C-g C-g\
 Regexp search: C-S-s\
       replace: C-M-%\
@@ -479,8 +484,10 @@ Regexp search: C-S-s\
 
 \f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
 Projectile:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
-\f1\b0 C-c p then\
+\f1\b0 \cf0 \expnd0\expndtw0\kerning0
+C-c p then\
 F - find file\
 B - find buffer\
 G - grep\
@@ -552,8 +559,10 @@ H - help}</string>
 
 \f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
 Clojure / Nrepl:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
-\f1\b0 load buffer in repl: C-c C-k\
+\f1\b0 \cf0 \expnd0\expndtw0\kerning0
+load buffer in repl: C-c C-k\
 switch repl to ns:   C-c M-n\
 jump to repl:        C-c C-z\
 scroll other win:  C-M-v and C-M-S-v\
@@ -626,8 +635,10 @@ eval: at point: C-c C-C\
 
 \f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
 Paredit:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
-\f1\b0 Nav fwd:   C-M-f\
+\f1\b0 \cf0 \expnd0\expndtw0\kerning0
+Nav fwd:   C-M-f\
     back:  C-M-b\
     in:    C-M-&lt;down&gt;\
     out:   C-M-&lt;up&gt;\
@@ -636,10 +647,10 @@ Paredit:\
 Select fn: C-M-h \
 wrap:      M-(\
 splice:    M-s\
-grow right: C-&lt;right&gt;\
-grow left:  C-M-&lt;left&gt;\
-shrink rgt: C-&lt;left&gt;\
-shrink lft: C-M-&lt;right&gt;\
+slurp right:C-&lt;right&gt;\
+slurp left: C-M-&lt;left&gt;\
+barf right: C-&lt;left&gt;\
+barf left:  C-M-&lt;right&gt;\
 split:     M-S-s\
 join:      M-S-j\
 reindent fn: M-q}</string>
@@ -709,28 +720,27 @@ reindent fn: M-q}</string>
 				ICAgICAgICBmb28uYmFyIDpyZWZlciA6YWxsXSkKICAo
 				OnVzZSBbZm9vLmJhcl0pIDsgYXZvaWQhCiAgKDppbXBv
 				cnQgW2phdmEudXRpbCBEYXRlIEhhc2hNYXBdKSmGhAJp
-				SQELkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQOShJaWBk5T
-				Rm9udIaShISEBk5TRm9udB6UmTCEBVs0OGNdBgAAACYA
-				AAD//lMAbwB1AHIAYwBlAEMAbwBkAGUAUAByAG8ALQBC
-				AG8AbABkAAAAhAFmDoQBYwCdAZ0AnQCGkoSWlhBOU1Bh
-				cmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHls
-				ZQCUhARDQ0BTBACEhIQHTlNBcnJheQCUmQCGgQAKhARb
-				MmZdJIPNzEw9hpKElpYOTlNPcmlnaW5hbEZvbnSGkpqG
-				lwIPkoSYmQOSmZKEm5k0hAVbNTJjXQYAAAAsAAAA//5T
-				AG8AdQByAGMAZQBDAG8AZABlAFAAcgBvAC0AUgBlAGcA
-				dQBsAGEAcgCcDp0AnQGdAJ0AhpKckp2SoZKjhpcDC5KE
-				mJkFkpmSo5Kckp2SoZKjkoSWlhFOU0JhY2tncm91bmRD
-				b2xvcoaShISEB05TQ29sb3IAlJ0BhARmZmZmg/X0dD+D
-				9fR0P4P19HQ/AYaShJaWB05TQ29sb3KGkoSnnQKkg87N
-				TT+DhoUFP4P9/Hw+AYaGlwIDlwQBkoSYmQWSmZKjkpyS
-				nZKhkqOSpZKmkqiShKedAqSDjYwMP4ONjAw/g42MDD8B
-				hoaXBQiShJiZBZKZkqOSnJKdkqGSo5KlkqaSqJKEp50C
-				pIPd3Nw+g4yLCz+D9fR0PgGGhpcCFJcFA5cCGpcFBpcC
-				IpcFBpcCAZcFBJcCAZcEAZcCA5cEAZcFBJcCCpcEAZcC
-				AZcGCZKEmJkFkpmSo5Kckp2SoZKjkqWSppKokoSnnQKk
-				g//+/j6D//7+PoP//v4+AYaGlwIClwQBlwUHlwIMlwcE
-				koSYmQWSmZKjkpySnZKhkqOSpZKmkqiShKedAqSDzs1N
-				P4OurS0/AAGGhpcCAZcHB5cCAZcEAoY=
+				SQELkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQKShJaWEE5T
+				UGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0
+				eWxlAJSEBENDQFMEAISEhAdOU0FycmF5AJSZAIaBAAqE
+				BFsyZl0kg83MTD2GkoSWlgZOU0ZvbnSGkoSEhAZOU0Zv
+				bnQelJkwhAVbNDhjXQYAAAAmAAAA//5TAG8AdQByAGMA
+				ZQBDAG8AZABlAFAAcgBvAC0AQgBvAGwAZAAAAIQBZg6E
+				AWMAoQGhAKEAhoaXAg+ShJiZApKZkpqSnpKEoJk0hAVb
+				NTJjXQYAAAAsAAAA//5TAG8AdQByAGMAZQBDAG8AZABl
+				AFAAcgBvAC0AUgBlAGcAdQBsAGEAcgCgDqEAoQGhAKEA
+				hoaXAwuShJiZBJKZkpqShJaWEU5TQmFja2dyb3VuZENv
+				bG9yhpKEhIQHTlNDb2xvcgCUoQGEBGZmZmaD9fR0P4P1
+				9HQ/g/X0dD8BhpKekqKShJaWB05TQ29sb3KGkoSmoQKk
+				g87NTT+DhoUFP4P9/Hw+AYaGlwIDlwQBkoSYmQSSmZKa
+				kqSSpZKekqKSp5KEpqECpIONjAw/g42MDD+DjYwMPwGG
+				hpcFCJKEmJkEkpmSmpKkkqWSnpKikqeShKahAqSD3dzc
+				PoOMiws/g/X0dD4BhoaXAhSXBQOXAhqXBQaXAiKXBQaX
+				AgGXBQSXAgGXBAGXAgOXBAGXBQSXAgqXBAGXAgGXBgmS
+				hJiZBJKZkpqSpJKlkp6SopKnkoSmoQKkg//+/j6D//7+
+				PoP//v4+AYaGlwIClwQBlwUHlwIMlwcEkoSYmQSSmZKa
+				kqSSpZKekqKSp5KEpqECpIPOzU0/g66tLT8AAYaGlwIB
+				lwcHlwIBlwQChg==
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
@@ -942,7 +952,7 @@ Korny's Emacs/clojure cheatsheet}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-05-19 11:29:44 +1000</string>
+	<string>2013-05-19 21:31:37 +1000</string>
 	<key>Modifier</key>
 	<string>Kornelis Sietsma</string>
 	<key>NotesVisible</key>
