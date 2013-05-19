@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActiveLayerIndex</key>
+	<integer>0</integer>
+	<key>ApplicationVersion</key>
+	<array>
+		<string>com.omnigroup.OmniGrafflePro</string>
+		<string>139.16.0.171715</string>
+	</array>
+	<key>AutoAdjust</key>
+	<true/>
+	<key>BackgroundGraphic</key>
+	<dict>
+		<key>Bounds</key>
+		<string>{{0, 0}, {805.89, 536.29}}</string>
+		<key>Class</key>
+		<string>SolidGraphic</string>
+		<key>ID</key>
+		<integer>2</integer>
+		<key>Style</key>
+		<dict>
+			<key>shadow</key>
+			<dict>
+				<key>Draws</key>
+				<string>NO</string>
+			</dict>
+			<key>stroke</key>
+			<dict>
+				<key>Draws</key>
+				<string>NO</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>BaseZoom</key>
+	<integer>0</integer>
+	<key>CanvasOrigin</key>
+	<string>{0, 0}</string>
+	<key>ColumnAlign</key>
+	<integer>1</integer>
+	<key>ColumnSpacing</key>
+	<real>36</real>
+	<key>CreationDate</key>
+	<string>2013-05-18 13:20:26 +1000</string>
+	<key>Creator</key>
+	<string>Kornelis Sietsma</string>
+	<key>DisplayScale</key>
+	<string>1 0/72 in = 1.0000 in</string>
+	<key>GraphDocumentVersion</key>
+	<integer>8</integer>
+	<key>GraphicsList</key>
+	<array>
+		<dict>
+			<key>Bounds</key>
+			<string>{{557.943, 430.601}, {231.121, 79}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>Vertical</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>w</key>
+					<string>0</string>
+				</dict>
+				<key>Font</key>
+				<string>Courier</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>13</real>
+			</dict>
+			<key>ID</key>
+			<integer>21</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.960317</string>
+						<key>g</key>
+						<string>0.960317</string>
+						<key>r</key>
+						<string>0.960317</string>
+					</dict>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>RTFD</key>
+				<data>
+				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
+				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
+				bmcBlIQBK0hEZXN0cnVjdHVyaW5nOgpbYSBiICYgbSA6
+				YXMgYWxsXQp7YSA6YSBiIDpifQp7OmtleXMgW2EgYl0g
+				Om9yIHs6YSAiYSJ9fSCGhAJpSQEPkoSEhAxOU0RpY3Rp
+				b25hcnkAlIQBaQSShJaWEE5TUGFyYWdyYXBoU3R5bGWG
+				koSEhBBOU1BhcmFncmFwaFN0eWxlAJSEBENDQFMEAISE
+				hAdOU0FycmF5AJSZDJKEhIQJTlNUZXh0VGFiAJSEAkNm
+				AByGkoSfngA4hpKEn54AVIaShJ+eAHCGkoSfngCBjACG
+				koSfngCBqACGkoSfngCBxACGkoSfngCB4ACGkoSfngCB
+				/ACGkoSfngCBGAGGkoSfngCBNAGGkoSfngCBUAGGhoEA
+				CIQEWzFmXYPNzEw9hpKElpYGTlNLZXJuhpKEhIQITlNO
+				dW1iZXIAhIQHTlNWYWx1ZQCUhAEqhIQBZKMAhpKElpYG
+				TlNGb250hpKEhIQGTlNGb250HpSZMIQFWzQ4Y10GAAAA
+				JgAAAP/+UwBvAHUAcgBjAGUAQwBvAGQAZQBQAHIAbwAt
+				AEIAbwBsAGQAAACEAWYOhAFjAKcBpwCnAIaShJaWDk5T
+				T3JpZ2luYWxGb250hpKxhpcCAZKEmJkEkpmShISEF05T
+				TXV0YWJsZVBhcmFncmFwaFN0eWxlAJubBACEnZkAhoEA
+				Ap8khpKElpYHTlNDb2xvcoaShISEB05TQ29sb3IAlKcC
+				hARmZmZmg4GAAD6D6+rqPoPIx0c/AYaSsJKEspkYhAVb
+				MjRjXQYAAAAQAAAA//5DAG8AdQByAGkAZQByAKYOpwCn
+				AacApwCGkrOSu4aXAwiShJiZA5KwkruSmZKEtpsEAISd
+				mQCGgQACnySGkrOSu4aXBAOShJiZBJKZkoS2mwQAhJ2Z
+				AIaBAAKfJIaSuJKEuqcCqoPd3Nw+g4yLCz+D9fR0PgGG
+				krCSu5KzkruGlwMElwIBlwMBlwIBlwMClwQClwMDlwQC
+				lwIBlwMBlwIBlwQFlwMBlwUBkoSYmQSSmZKEtpsEAISd
+				mQCGgQACnySGkriShLqnAqqDx8ZGPwCD4eDgPAGGkrCS
+				u5KzkruGlwMDlwUBlwMBlwQDlwMBlwUBlwQClwMElwUB
+				lwIBlwMBhg==
+				</data>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 SourceCodePro-Bold;\f1\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red31\green106\blue194;\red103\green134\blue54;\red191\green0\blue7;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
+Destructuring:\
+\pard\pardeftab720\ql\qnatural
+
+\f1\b0 \cf2 \kerning1\expnd0\expndtw0 [\cf0 a b &amp; m \cf3 :as\cf0  all\cf2 ]\cf0 \
+\cf2 \{\cf0 a \cf3 :a\cf0  b \cf3 :b\cf2 \}\cf0 \
+\cf2 \{\cf3 :keys\cf0  \cf4 [\cf0 a b\cf4 ]\cf0  \cf3 :or\cf0  \cf4 \{\cf3 :a\cf0  "a"\cf4 \}\cf2 \}\cf0  }</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{27.6268, 423.781}, {186.787, 100}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>Vertical</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>w</key>
+					<string>0</string>
+				</dict>
+				<key>Font</key>
+				<string>Courier</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>13</real>
+			</dict>
+			<key>ID</key>
+			<integer>20</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.960317</string>
+						<key>g</key>
+						<string>0.960317</string>
+						<key>r</key>
+						<string>0.960317</string>
+					</dict>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 SourceCodePro-Bold;\f1\fnil\fcharset0 SourceCodePro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
+Windows:\
+
+\f1\b0 New win below: C-x 2\
+New win right: C-x 3\
+One win:       C-x 1\
+Kill win:      C-x 0}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{229.678, 438.369}, {313, 82}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>YES</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>w</key>
+					<string>0</string>
+				</dict>
+				<key>Font</key>
+				<string>Courier</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>13</real>
+			</dict>
+			<key>ID</key>
+			<integer>18</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.960317</string>
+						<key>g</key>
+						<string>0.960317</string>
+						<key>r</key>
+						<string>0.960317</string>
+					</dict>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 SourceCodePro-Bold;\f1\fnil\fcharset0 SourceCodePro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
+Cut/Paste:\
+
+\f1\b0 Mark:  C-space    Swap mark: C-x C-x\
+Cut:   C-w        Copy:      M-w\
+Paste: C-y        Pop-Paste: M-y}</string>
+			</dict>
+			<key>Wrap</key>
+			<string>NO</string>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{296.556, 6.53172}, {120, 82}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>YES</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>w</key>
+					<string>0</string>
+				</dict>
+				<key>Font</key>
+				<string>Courier</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>13</real>
+			</dict>
+			<key>ID</key>
+			<integer>17</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.960317</string>
+						<key>g</key>
+						<string>0.960317</string>
+						<key>r</key>
+						<string>0.960317</string>
+					</dict>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 SourceCodePro-Bold;\f1\fnil\fcharset0 SourceCodePro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
+Help:\
+
+\f1\b0 Search: C-h a\
+Mode: C-h m\
+Key: C-h k}</string>
+			</dict>
+			<key>Wrap</key>
+			<string>NO</string>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{247.088, 294.423}, {178, 136}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>YES</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>w</key>
+					<string>0</string>
+				</dict>
+				<key>Font</key>
+				<string>Courier</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>13</real>
+			</dict>
+			<key>ID</key>
+			<integer>16</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.960317</string>
+						<key>g</key>
+						<string>0.960317</string>
+						<key>r</key>
+						<string>0.960317</string>
+					</dict>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 SourceCodePro-Bold;\f1\fnil\fcharset0 SourceCodePro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
+Basics I forget:\
+
+\f1\b0 Undo: C-/\
+Cancel: C-g C-g C-g\
+Regexp search: C-S-s\
+      replace: C-M-%\
+  groups \\( \\) or \\|\
+  replace \\1 \\2}</string>
+			</dict>
+			<key>Wrap</key>
+			<string>NO</string>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{263.588, 96.4773}, {145, 190}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>YES</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>w</key>
+					<string>0</string>
+				</dict>
+				<key>Font</key>
+				<string>Courier</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>13</real>
+			</dict>
+			<key>ID</key>
+			<integer>15</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.960317</string>
+						<key>g</key>
+						<string>0.960317</string>
+						<key>r</key>
+						<string>0.960317</string>
+					</dict>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 SourceCodePro-Bold;\f1\fnil\fcharset0 SourceCodePro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
+Projectile:\
+
+\f1\b0 C-c p then\
+F - find file\
+B - find buffer\
+G - grep\
+R - replace\
+O - occurs\
+D - dired\
+E - recent files\
+H - help}</string>
+			</dict>
+			<key>Wrap</key>
+			<string>NO</string>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{454.881, 168.066}, {330.366, 244}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>Vertical</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>w</key>
+					<string>0</string>
+				</dict>
+				<key>Font</key>
+				<string>Courier</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>13</real>
+			</dict>
+			<key>ID</key>
+			<integer>14</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.960317</string>
+						<key>g</key>
+						<string>0.960317</string>
+						<key>r</key>
+						<string>0.960317</string>
+					</dict>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 SourceCodePro-Bold;\f1\fnil\fcharset0 SourceCodePro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
+Clojure / Nrepl:\
+
+\f1\b0 load buffer in repl: C-c C-k\
+switch repl to ns:   C-c M-n\
+jump to repl:        C-c C-z\
+scroll other win:  C-M-v and C-M-S-v\
+\
+Jump to defn: M-.\
+Back after jump: M-,\
+Complete: M-/\
+\
+eval: at point: C-c C-C\
+      last exp: C-x C-e \
+      in popup: C-c C-p}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{21.9018, 81.3761}, {204, 316}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>YES</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>w</key>
+					<string>0</string>
+				</dict>
+				<key>Font</key>
+				<string>Courier</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>13</real>
+			</dict>
+			<key>ID</key>
+			<integer>13</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.960317</string>
+						<key>g</key>
+						<string>0.960317</string>
+						<key>r</key>
+						<string>0.960317</string>
+					</dict>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 SourceCodePro-Bold;\f1\fnil\fcharset0 SourceCodePro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 \expnd0\expndtw0\kerning0
+Paredit:\
+
+\f1\b0 Nav fwd:   C-M-f\
+    back:  C-M-b\
+    in:    C-M-&lt;down&gt;\
+    out:   C-M-&lt;up&gt;\
+ fn fwd:   C-M-a\
+ fn bak:   C-M-e\
+Select fn: C-M-h \
+wrap:      M-(\
+splice:    M-s\
+grow right: C-&lt;right&gt;\
+grow left:  C-M-&lt;left&gt;\
+shrink rgt: C-&lt;left&gt;\
+shrink lft: C-M-&lt;right&gt;\
+split:     M-S-s\
+join:      M-S-j\
+reindent fn: M-q}</string>
+			</dict>
+			<key>Wrap</key>
+			<string>NO</string>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{451.064, 6.53172}, {338, 154}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>YES</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>w</key>
+					<string>0</string>
+				</dict>
+				<key>Font</key>
+				<string>Calibri-Bold</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>18</real>
+			</dict>
+			<key>ID</key>
+			<integer>10</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.960317</string>
+						<key>g</key>
+						<string>0.960317</string>
+						<key>r</key>
+						<string>0.960317</string>
+					</dict>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>RTFD</key>
+				<data>
+				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
+				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
+				bmcBlIQBK4HZAE5hbWVzcGFjZXM6CihucyBmb28uYmFy
+				CiAgImRvY3N0cmluZyIKICAoOnJlcXVpcmUgW2Nsb2p1
+				cmUudG9vbHMuY2xpIDphcyBjbGkKICAgICAgICAgICAg
+				IGZvby5iYXogOnJlZmVyIFtzcG9vIGJ3YXRdCiAgICAg
+				ICAgICAgICBmb28uYmFyIDpyZWZlciA6YWxsXSkKICAo
+				OnVzZSBbZm9vLmJhcl0pIDsgYXZvaWQhCiAgKDppbXBv
+				cnQgW2phdmEudXRpbCBEYXRlIEhhc2hNYXBdKSmGhAJp
+				SQELkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQOShJaWBk5T
+				Rm9udIaShISEBk5TRm9udB6UmTCEBVs0OGNdBgAAACYA
+				AAD//lMAbwB1AHIAYwBlAEMAbwBkAGUAUAByAG8ALQBC
+				AG8AbABkAAAAhAFmDoQBYwCdAZ0AnQCGkoSWlhBOU1Bh
+				cmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHls
+				ZQCUhARDQ0BTBACEhIQHTlNBcnJheQCUmQCGgQAKhARb
+				MmZdJIPNzEw9hpKElpYOTlNPcmlnaW5hbEZvbnSGkpqG
+				lwIPkoSYmQOSmZKEm5k0hAVbNTJjXQYAAAAsAAAA//5T
+				AG8AdQByAGMAZQBDAG8AZABlAFAAcgBvAC0AUgBlAGcA
+				dQBsAGEAcgCcDp0AnQGdAJ0AhpKckp2SoZKjhpcDC5KE
+				mJkFkpmSo5Kckp2SoZKjkoSWlhFOU0JhY2tncm91bmRD
+				b2xvcoaShISEB05TQ29sb3IAlJ0BhARmZmZmg/X0dD+D
+				9fR0P4P19HQ/AYaShJaWB05TQ29sb3KGkoSnnQKkg87N
+				TT+DhoUFP4P9/Hw+AYaGlwIDlwQBkoSYmQWSmZKjkpyS
+				nZKhkqOSpZKmkqiShKedAqSDjYwMP4ONjAw/g42MDD8B
+				hoaXBQiShJiZBZKZkqOSnJKdkqGSo5KlkqaSqJKEp50C
+				pIPd3Nw+g4yLCz+D9fR0PgGGhpcCFJcFA5cCGpcFBpcC
+				IpcFBpcCAZcFBJcCAZcEAZcCA5cEAZcFBJcCCpcEAZcC
+				AZcGCZKEmJkFkpmSo5Kckp2SoZKjkqWSppKokoSnnQKk
+				g//+/j6D//7+PoP//v4+AYaGlwIClwQBlwUHlwIMlwcE
+				koSYmQWSmZKjkpySnZKhkqOSpZKmkqiShKedAqSDzs1N
+				P4OurS0/AAGGhpcCAZcHB5cCAZcEAoY=
+				</data>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 SourceCodePro-Bold;\f1\fnil\fcharset0 SourceCodePro-Regular;}
+{\colortbl;\red255\green255\blue255;\red199\green126\blue56;\red244\green244\blue244;\red133\green133\blue133;
+\red103\green134\blue54;\red119\green119\blue119;\red200\green170\blue7;}
+\deftab720
+\pard\pardeftab720\ql\qnatural
+
+\f0\b\fs28 \cf0 Namespaces:
+\f1\b0 \
+(ns foo.bar\
+  \cf2 \cb3 "docstring"\cf0 \cb1 \
+  \cf4 \cb3 (\cf5 :require\cf0 \cb1  [clojure.tools.cli \cf5 \cb3 :as\cf0 \cb1  cli\
+             foo.baz \cf5 \cb3 :refer\cf0 \cb1  [spoo bwat]\
+             foo.bar \cf5 \cb3 :refer\cf0 \cb1  \cf5 \cb3 :all\cf0 \cb1 ]\cf4 \cb3 )\cf0 \cb1 \
+  \cf4 \cb3 (\cf5 :use\cf0 \cb1  [foo.bar]\cf4 \cb3 )\cf0 \cb1  \cf6 \cb3 ; avoid!\
+\cf0 \cb1   \cf4 \cb3 (\cf5 :import\cf0 \cb1  [java.util \cf7 \cb3 Date\cf0 \cb1  \cf7 \cb3 HashMap\cf0 \cb1 ]\cf4 \cb3 ))}</string>
+			</dict>
+			<key>Wrap</key>
+			<string>NO</string>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{25.5801, 32.7734}, {250, 38}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>YES</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>w</key>
+					<string>0</string>
+				</dict>
+				<key>Font</key>
+				<string>Calibri-Bold</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>18</real>
+			</dict>
+			<key>ID</key>
+			<integer>4</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.346611</string>
+						<key>g</key>
+						<string>1</string>
+						<key>r</key>
+						<string>0.431514</string>
+					</dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+Assumes: emacs 24 + nrepl + projectile + paredit \
+Note: excludes things I find easy to remember :)}</string>
+			</dict>
+			<key>Wrap</key>
+			<string>NO</string>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{21.9018, 6.53172}, {264, 33}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>YES</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>w</key>
+					<string>0</string>
+				</dict>
+				<key>Font</key>
+				<string>Calibri-Bold</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>18</real>
+			</dict>
+			<key>ID</key>
+			<integer>3</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.346611</string>
+						<key>g</key>
+						<string>1</string>
+						<key>r</key>
+						<string>0.431514</string>
+					</dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs36 \cf0 \expnd0\expndtw0\kerning0
+Korny's Emacs/clojure cheatsheet}</string>
+			</dict>
+			<key>Wrap</key>
+			<string>NO</string>
+		</dict>
+	</array>
+	<key>GridInfo</key>
+	<dict/>
+	<key>GuidesLocked</key>
+	<string>NO</string>
+	<key>GuidesVisible</key>
+	<string>YES</string>
+	<key>HPages</key>
+	<integer>1</integer>
+	<key>ImageCounter</key>
+	<integer>1</integer>
+	<key>KeepToScale</key>
+	<false/>
+	<key>Layers</key>
+	<array>
+		<dict>
+			<key>Lock</key>
+			<string>NO</string>
+			<key>Name</key>
+			<string>Layer 1</string>
+			<key>Print</key>
+			<string>YES</string>
+			<key>View</key>
+			<string>YES</string>
+		</dict>
+	</array>
+	<key>LayoutInfo</key>
+	<dict>
+		<key>Animate</key>
+		<string>NO</string>
+		<key>circoMinDist</key>
+		<real>18</real>
+		<key>circoSeparation</key>
+		<real>0.0</real>
+		<key>layoutEngine</key>
+		<string>dot</string>
+		<key>neatoSeparation</key>
+		<real>0.0</real>
+		<key>twopiSeparation</key>
+		<real>0.0</real>
+	</dict>
+	<key>LinksVisible</key>
+	<string>NO</string>
+	<key>MagnetsVisible</key>
+	<string>NO</string>
+	<key>MasterSheets</key>
+	<array/>
+	<key>ModificationDate</key>
+	<string>2013-05-19 11:29:44 +1000</string>
+	<key>Modifier</key>
+	<string>Kornelis Sietsma</string>
+	<key>NotesVisible</key>
+	<string>NO</string>
+	<key>Orientation</key>
+	<integer>2</integer>
+	<key>OriginVisible</key>
+	<string>NO</string>
+	<key>PageBreaks</key>
+	<string>YES</string>
+	<key>PrintInfo</key>
+	<dict>
+		<key>NSBottomMargin</key>
+		<array>
+			<string>float</string>
+			<string>41</string>
+		</array>
+		<key>NSLeftMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+		<key>NSOrientation</key>
+		<array>
+			<string>int</string>
+			<string>1</string>
+		</array>
+		<key>NSPaperSize</key>
+		<array>
+			<string>size</string>
+			<string>{841.89, 595.29}</string>
+		</array>
+		<key>NSRightMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+		<key>NSTopMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+	</dict>
+	<key>PrintOnePage</key>
+	<false/>
+	<key>ReadOnly</key>
+	<string>NO</string>
+	<key>RowAlign</key>
+	<integer>1</integer>
+	<key>RowSpacing</key>
+	<real>36</real>
+	<key>SheetTitle</key>
+	<string>Canvas 1</string>
+	<key>SmartAlignmentGuidesActive</key>
+	<string>YES</string>
+	<key>SmartDistanceGuidesActive</key>
+	<string>YES</string>
+	<key>UniqueID</key>
+	<integer>1</integer>
+	<key>UseEntirePage</key>
+	<false/>
+	<key>VPages</key>
+	<integer>1</integer>
+	<key>WindowInfo</key>
+	<dict>
+		<key>CurrentSheet</key>
+		<integer>0</integer>
+		<key>ExpandedCanvases</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Canvas 1</string>
+			</dict>
+		</array>
+		<key>FitInWindow</key>
+		<true/>
+		<key>Frame</key>
+		<string>{{1920, 280}, {1280, 800}}</string>
+		<key>ListView</key>
+		<true/>
+		<key>OutlineWidth</key>
+		<integer>142</integer>
+		<key>RightSidebar</key>
+		<false/>
+		<key>ShowRuler</key>
+		<true/>
+		<key>Sidebar</key>
+		<true/>
+		<key>SidebarWidth</key>
+		<integer>120</integer>
+		<key>VisibleRegion</key>
+		<string>{{-61, 0}, {928.799, 537}}</string>
+		<key>Zoom</key>
+		<real>1.2327746152877808</real>
+		<key>ZoomValues</key>
+		<array>
+			<array>
+				<string>Canvas 1</string>
+				<real>0.0</real>
+				<real>8</real>
+			</array>
+		</array>
+	</dict>
+</dict>
+</plist>
