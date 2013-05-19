@@ -495,7 +495,7 @@ R - replace\
 O - occurs\
 D - dired\
 E - recent files\
-H - help}</string>
+I - del. cache}</string>
 			</dict>
 			<key>Wrap</key>
 			<string>NO</string>
@@ -952,7 +952,7 @@ Korny's Emacs/clojure cheatsheet}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-05-19 21:31:37 +1000</string>
+	<string>2013-05-19 22:43:32 +1000</string>
 	<key>Modifier</key>
 	<string>Kornelis Sietsma</string>
 	<key>NotesVisible</key>
