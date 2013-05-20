@@ -502,7 +502,7 @@ I - del. cache}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{454.881, 168.066}, {330.366, 244}}</string>
+			<string>{{463.564, 173.566}, {313, 244}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -565,11 +565,11 @@ Clojure / Nrepl:\
 load buffer in repl: C-c C-k\
 switch repl to ns:   C-c M-n\
 jump to repl:        C-c C-z\
-scroll other win:  C-M-v and C-M-S-v\
+scroll other win: C-M-v and C-M-S-v\
 \
-Jump to defn: M-.\
+Jump to defn:    M-.\
 Back after jump: M-,\
-Complete: M-/\
+Complete:        M-/\
 \
 eval: at point: C-c C-C\
       last exp: C-x C-e \
@@ -660,7 +660,7 @@ reindent fn: M-q}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{451.064, 6.53172}, {338, 154}}</string>
+			<string>{{451.064, 6.53172}, {355, 154}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -713,34 +713,34 @@ reindent fn: M-q}</string>
 				<data>
 				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
-				bmcBlIQBK4HZAE5hbWVzcGFjZXM6CihucyBmb28uYmFy
-				CiAgImRvY3N0cmluZyIKICAoOnJlcXVpcmUgW2Nsb2p1
-				cmUudG9vbHMuY2xpIDphcyBjbGkKICAgICAgICAgICAg
-				IGZvby5iYXogOnJlZmVyIFtzcG9vIGJ3YXRdCiAgICAg
-				ICAgICAgICBmb28uYmFyIDpyZWZlciA6YWxsXSkKICAo
-				OnVzZSBbZm9vLmJhcl0pIDsgYXZvaWQhCiAgKDppbXBv
-				cnQgW2phdmEudXRpbCBEYXRlIEhhc2hNYXBdKSmGhAJp
-				SQELkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQKShJaWEE5T
-				UGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0
-				eWxlAJSEBENDQFMEAISEhAdOU0FycmF5AJSZAIaBAAqE
-				BFsyZl0kg83MTD2GkoSWlgZOU0ZvbnSGkoSEhAZOU0Zv
-				bnQelJkwhAVbNDhjXQYAAAAmAAAA//5TAG8AdQByAGMA
-				ZQBDAG8AZABlAFAAcgBvAC0AQgBvAGwAZAAAAIQBZg6E
-				AWMAoQGhAKEAhoaXAg+ShJiZApKZkpqSnpKEoJk0hAVb
-				NTJjXQYAAAAsAAAA//5TAG8AdQByAGMAZQBDAG8AZABl
-				AFAAcgBvAC0AUgBlAGcAdQBsAGEAcgCgDqEAoQGhAKEA
-				hoaXAwuShJiZBJKZkpqShJaWEU5TQmFja2dyb3VuZENv
-				bG9yhpKEhIQHTlNDb2xvcgCUoQGEBGZmZmaD9fR0P4P1
-				9HQ/g/X0dD8BhpKekqKShJaWB05TQ29sb3KGkoSmoQKk
-				g87NTT+DhoUFP4P9/Hw+AYaGlwIDlwQBkoSYmQSSmZKa
-				kqSSpZKekqKSp5KEpqECpIONjAw/g42MDD+DjYwMPwGG
-				hpcFCJKEmJkEkpmSmpKkkqWSnpKikqeShKahAqSD3dzc
-				PoOMiws/g/X0dD4BhoaXAhSXBQOXAhqXBQaXAiKXBQaX
-				AgGXBQSXAgGXBAGXAgOXBAGXBQSXAgqXBAGXAgGXBgmS
-				hJiZBJKZkpqSpJKlkp6SopKnkoSmoQKkg//+/j6D//7+
-				PoP//v4+AYaGlwIClwQBlwUHlwIMlwcEkoSYmQSSmZKa
-				kqSSpZKekqKSp5KEpqECpIPOzU0/g66tLT8AAYaGlwIB
-				lwcHlwIBlwQChg==
+				bmcBlIQBK4HfAE5hbWVzcGFjZXM6CihucyBmb28uYmFy
+				CiAgImRvY3N0cmluZyIKICAoOnJlcXVpcmUgW1tjbG9q
+				dXJlLnRvb2xzLmNsaSA6YXMgY2xpXQogICAgICAgICAg
+				ICAgW2Zvby5iYXogOnJlZmVyIFtzcG9vIGJ3YXRdXQog
+				ICAgICAgICAgICAgW2Zvby5iYXIgOnJlZmVyIDphbGxd
+				XSkKICAoOnVzZSBbZm9vLmJhcl0pIDsgYXZvaWQhCiAg
+				KDppbXBvcnQgW2phdmEudXRpbCBEYXRlIEhhc2hNYXBd
+				KSmGhAJpSQELkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQKS
+				hJaWEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFn
+				cmFwaFN0eWxlAJSEBENDQFMEAISEhAdOU0FycmF5AJSZ
+				AIaBAAqEBFsyZl0kg83MTD2GkoSWlgZOU0ZvbnSGkoSE
+				hAZOU0ZvbnQelJkwhAVbNDhjXQYAAAAmAAAA//5TAG8A
+				dQByAGMAZQBDAG8AZABlAFAAcgBvAC0AQgBvAGwAZAAA
+				AIQBZg6EAWMAoQGhAKEAhoaXAg+ShJiZApKZkpqSnpKE
+				oJk0hAVbNTJjXQYAAAAsAAAA//5TAG8AdQByAGMAZQBD
+				AG8AZABlAFAAcgBvAC0AUgBlAGcAdQBsAGEAcgCgDqEA
+				oQGhAKEAhoaXAwuShJiZBJKZkpqShJaWEU5TQmFja2dy
+				b3VuZENvbG9yhpKEhIQHTlNDb2xvcgCUoQGEBGZmZmaD
+				9fR0P4P19HQ/g/X0dD8BhpKekqKShJaWB05TQ29sb3KG
+				koSmoQKkg87NTT+DhoUFP4P9/Hw+AYaGlwIDlwQBkoSY
+				mQSSmZKakqSSpZKekqKSp5KEpqECpIONjAw/g42MDD+D
+				jYwMPwGGhpcFCJKEmJkEkpmSmpKkkqWSnpKikqeShKah
+				AqSD3dzcPoOMiws/g/X0dD4BhoaXAhWXBQOXAhyXBQaX
+				AiSXBQaXAgGXBQSXAgKXBAGXAgOXBAGXBQSXAgqXBAGX
+				AgGXBgmShJiZBJKZkpqSpJKlkp6SopKnkoSmoQKkg//+
+				/j6D//7+PoP//v4+AYaGlwIClwQBlwUHlwIMlwcEkoSY
+				mQSSmZKakqSSpZKekqKSp5KEpqECpIPOzU0/g66tLT8A
+				AYaGlwIBlwcHlwIBlwQChg==
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
@@ -754,9 +754,9 @@ reindent fn: M-q}</string>
 \f1\b0 \
 (ns foo.bar\
   \cf2 \cb3 "docstring"\cf0 \cb1 \
-  \cf4 \cb3 (\cf5 :require\cf0 \cb1  [clojure.tools.cli \cf5 \cb3 :as\cf0 \cb1  cli\
-             foo.baz \cf5 \cb3 :refer\cf0 \cb1  [spoo bwat]\
-             foo.bar \cf5 \cb3 :refer\cf0 \cb1  \cf5 \cb3 :all\cf0 \cb1 ]\cf4 \cb3 )\cf0 \cb1 \
+  \cf4 \cb3 (\cf5 :require\cf0 \cb1  [[clojure.tools.cli \cf5 \cb3 :as\cf0 \cb1  cli]\
+             [foo.baz \cf5 \cb3 :refer\cf0 \cb1  [spoo bwat]]\
+             [foo.bar \cf5 \cb3 :refer\cf0 \cb1  \cf5 \cb3 :all\cf0 \cb1 ]]\cf4 \cb3 )\cf0 \cb1 \
   \cf4 \cb3 (\cf5 :use\cf0 \cb1  [foo.bar]\cf4 \cb3 )\cf0 \cb1  \cf6 \cb3 ; avoid!\
 \cf0 \cb1   \cf4 \cb3 (\cf5 :import\cf0 \cb1  [java.util \cf7 \cb3 Date\cf0 \cb1  \cf7 \cb3 HashMap\cf0 \cb1 ]\cf4 \cb3 ))}</string>
 			</dict>
@@ -952,7 +952,7 @@ Korny's Emacs/clojure cheatsheet}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-05-19 22:43:32 +1000</string>
+	<string>2013-05-21 07:22:22 +1000</string>
 	<key>Modifier</key>
 	<string>Kornelis Sietsma</string>
 	<key>NotesVisible</key>
